@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<html>
+	<head>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FxJeuhwxabU?start=73" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  		<meta name="viewport" content="width=device-width, initial-scale-scale=1.0">
+		<meta charset="UTF-8">
+		<title>Project</title>
+		<link rel="stylesheet" href="site_project.css">
+
+		<style></style>
+	</head>
+	<body>
+		<h1 style="text-align: center"><p><strong>...</strong></p></h1>
+		<br>
+				<label for="car make; f">Escolha uma vagabunda:</label>
+		<input list="car-makes" id="car-make" name="car-makes" placeholder="Select make.." />
+		<datalist id="car-makes">
+			<option value="Matos">
+			<option value="Gaylherme">
+			<option value="Gabriela">
+			<option value="Felipa">
+			<option value="RafaGirafa">
+		</datalist>
+		<br>
+		<progress id="project"></progress>
+
+
+	<figure>
+		    <blockquote cite="">
+		        <strong><p>...</p></strong>
+		    </blockquote>
+		    <figcaption>...</figcaption>
+	</figure>
+
+	</body>
+</html>
